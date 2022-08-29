@@ -530,6 +530,22 @@ print(z)
 <p><strong>Sample Text</strong>
 <strong><em>Sample Text</em></strong></p>
 <p><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Link"></p>
+<h1 id="14--how-to-change-color">14- How to change color</h1>
+<p>Example:</p>
+<p>This text color is normal<br>
+<span style= "color:lightgreen">This text color is green</span></p>
+<h1 id="15--adding-equations-in-markdown">15- Adding equations in markdown</h1>
+<blockquote>
+<p>In-line Maths\</p>
+</blockquote>
+<p>$this_{is}^{inline}$</p>
+<blockquote>
+<p>Math Block
+$$
+\int_0^\infty\frac{x^3}{e^x-1},dx= \frac{\pi^4}{15}
+$$</p>
+</blockquote>
+<p>Go through following link in order to learn more about using quantitative finance equations : <a href="https://jupyterbook.org/content/math.html">MathBox</a></p>
 
 </body>
 </html>
