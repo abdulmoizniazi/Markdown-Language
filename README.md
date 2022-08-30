@@ -536,12 +536,13 @@ print(z)
 <span style= "color:lightgreen">This text color is green</span></p>
 <h1 id="15--adding-equations-in-markdown">15- Adding equations in markdown</h1>
 <blockquote>
-<p>In-line Maths\</p>
+<p>In-line Maths</p>
 </blockquote>
 <p>$this_{is}^{inline}$</p>
 <blockquote>
-<p>Math Block
-$$
+<p>Math Block</p>
+</blockquote>
+<p>$$
 \int_0^\infty\frac{x^3}{e^x-1},dx= \frac{\pi^4}{15}
 $$</p>
 </blockquote>
